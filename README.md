@@ -1,4 +1,4 @@
-# Multimedia-Assignment
+# Audio-Processing
 [y,Fs]= audioread('D:\matlab\melody.wav');
 %sound(y,Fs)
 %plot(y);
